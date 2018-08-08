@@ -22,6 +22,7 @@ int main()
 //        cout << a[i] + a[i + 1] << " ";
 //    }
 //    cout << endl;
+// git
     auto index = a.begin();
     while(index != a.end() - 1)
     {
